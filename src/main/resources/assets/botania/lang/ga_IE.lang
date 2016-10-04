@@ -1,0 +1,29 @@
+# Note to translators: DO NOT COPY ENTRIES FROM ENGLISH
+# I repeat: do NOT copy entries from English!!
+# Any entry in this lang file should be in ga_IE, or *should not be here at all*
+# Copying English entries will cause them to become outdated when the main English lang file changes
+# Untranslated entries will automatically be inherited from en_US
+#
+# Once again, don't copy from English, and THANK YOU for your hard work!
+
+# MISC
+itemGroup.Botania=Botania
+generator.botania-skyblock=Gairdín na gloine
+generator.botania-skyblock.info=Ni molta do thosaitheoirí na Botania
+
+botaniamisc.nextPage=Leathanach Eile
+botaniamisc.previousPage=Leathanach Roimhe
+botaniamisc.back=Ar Ais
+botaniamisc.craftingContainer=Chuir Ar Ais ar Ceardaíochta
+botaniamisc.shapeless=Oideas Éagruthach
+botaniamisc.oredict=Oideas Mian Foclóir
+botaniamisc.statusUnknown=Ní Staid ar Eolas
+botaniamisc.color=%s Imire
+botaniamisc.manaUsage=Úsáid Cumhachta Bláth
+botaniamisc.shiftToRead=Iomlaoid agus Deaschliceáil chun Tuilleadh a Léamh
+botaniamisc.clickToRecipe=Iomlaoid agus Cliceáil chun Éagruthach a Fheiceáil
+botanismisc.clickToIndex=Iomlaoid agus Clicleáil do Innéacs
+botaniamisc.flareColor=%s Urchar
+botaniamisc.outputtingPower=Ag Spáráil Cumhacta Bláth do Míreanna
+botaniamisc.inputtingPower=Ag Glacadh le Cumhacta Bláth ó Míreanna
+
